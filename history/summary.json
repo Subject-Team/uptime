@@ -4,19 +4,19 @@
     "url": "$ROUTER_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "router-1",
-    "status": "down",
-    "uptime": "25.26%",
-    "uptimeDay": "25.26%",
-    "uptimeWeek": "25.26%",
-    "uptimeMonth": "25.26%",
-    "uptimeYear": "25.26%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "9.17%",
+    "uptimeDay": "9.17%",
+    "uptimeWeek": "9.17%",
+    "uptimeMonth": "9.17%",
+    "uptimeYear": "9.17%",
+    "time": 451,
+    "timeDay": 451,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2026-08-04": 1
+      "2026-08-04": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$BACKEND_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend-1",
-    "status": "down",
-    "uptime": "37.73%",
-    "uptimeDay": "37.73%",
-    "uptimeWeek": "37.73%",
-    "uptimeMonth": "37.73%",
-    "uptimeYear": "37.73%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.80%",
+    "uptimeDay": "2.80%",
+    "uptimeWeek": "2.80%",
+    "uptimeMonth": "2.80%",
+    "uptimeYear": "2.80%",
+    "time": 42358,
+    "timeDay": 42358,
+    "timeWeek": 42358,
+    "timeMonth": 42358,
+    "timeYear": 42358,
     "dailyMinutesDown": {
-      "2026-08-04": 0
+      "2026-08-04": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$FRONTEND_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "frontend-1",
-    "status": "down",
-    "uptime": "56.15%",
-    "uptimeDay": "56.15%",
-    "uptimeWeek": "56.15%",
-    "uptimeMonth": "56.15%",
-    "uptimeYear": "56.15%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.38%",
+    "uptimeDay": "2.38%",
+    "uptimeWeek": "2.38%",
+    "uptimeMonth": "2.38%",
+    "uptimeYear": "2.38%",
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-08-04": 0
+      "2026-08-04": 11
     }
   }
 ]
