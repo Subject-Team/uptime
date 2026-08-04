@@ -18,7 +18,7 @@ status-website:
   introMessage: This is a status page which uses **real-time** data.
   navbar:
     - title: Status
-      href: /
+      href: /uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
