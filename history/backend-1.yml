@@ -1,7 +1,7 @@
 url: $BACKEND_1
-status: down
-code: 502
-responseTime: 15071
-lastUpdated: 2026-08-05T11:38:33.939Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2026-08-05T15:33:53.202Z
 startTime: 2026-08-04T18:15:48.444Z
 generator: Upptime <https://github.com/upptime/upptime>
