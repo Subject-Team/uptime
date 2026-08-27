@@ -1,7 +1,7 @@
 url: $ROUTER_1
-status: up
-code: 200
-responseTime: 839
-lastUpdated: 2026-08-27T04:20:09.018Z
+status: down
+code: 404
+responseTime: 116
+lastUpdated: 2026-08-27T15:28:28.466Z
 startTime: 2026-08-04T18:15:34.761Z
 generator: Upptime <https://github.com/upptime/upptime>
