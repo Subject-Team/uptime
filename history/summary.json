@@ -6,16 +6,18 @@
     "slug": "backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4033,
     "timeDay": 10757,
-    "timeWeek": 4033,
+    "timeWeek": 5712,
     "timeMonth": 4033,
     "timeYear": 4033,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-04": 0
+    }
   },
   {
     "name": "Website",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 758,
     "timeDay": 495,
-    "timeWeek": 758,
+    "timeWeek": 711,
     "timeMonth": 758,
     "timeYear": 758,
     "dailyMinutesDown": {}
